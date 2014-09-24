@@ -1,1 +1,3 @@
 Ceci est un nouveau fichier texte
+
+Ceci est une modification du fichier texte.
